@@ -1,2 +1,0 @@
-# FitBuddy
-its  Gym Website
